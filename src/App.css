@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.hassanat {
+}
+
+.btn {
+  color: #fff;
+  background-color: #d98c00;
+  border-radius: 4px;
+  padding: 0 15px;
+  cursor: pointer;
+  height: 32px;
+  font-size: 14px;
+  transition: all 0.2s ease-in-out;
+  padding: 1.25rem 2.25rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 10rem;
+  text-decoration: none;
+  margin-top: 10px;
+  padding: 20px !important;
+  padding-bottom: 10px;
+  float: left;
+  display: inline;
+}
+.btn:hover {
+  transform: scale(1.1);
+  color: #000000;
+  background-color: #ffffff;
+  /* border-color: #ee3e0d; */
+}
+
+.hacker {
+}
